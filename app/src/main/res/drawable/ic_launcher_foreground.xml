@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A simple sparrow glyph inside the 66dp safe zone. Placeholder until real art lands. -->
+    <group android:translateX="0" android:translateY="0">
+        <path
+            android:fillColor="#FFF8F4"
+            android:pathData="M70,38 C74,36 78,37 79,40 C80,42 79,44 77,45 C80,47 82,50 82,54 C82,63 74,70 63,71 C62,74 60,77 57,79 C58,76 58,73 57,71 C50,70 44,66 41,60 C38,62 34,62 31,60 C34,59 36,57 37,55 C33,52 31,47 32,42 C33,45 36,48 40,49 C43,44 49,40 56,40 C60,40 64,41 67,43 C67,41 68,39 70,38 Z" />
+        <path
+            android:fillColor="#3C2C1E"
+            android:pathData="M73,42 m-1.6,0 a1.6,1.6 0 1,0 3.2,0 a1.6,1.6 0 1,0 -3.2,0" />
+        <path
+            android:fillColor="#DCC1A9"
+            android:pathData="M40,62 L34,72 L44,66 Z" />
+    </group>
+</vector>
